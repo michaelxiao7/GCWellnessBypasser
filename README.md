@@ -13,7 +13,7 @@ SETUP:
 NOTE: Setting this up assumes you know how to navigate a terminal with bash. A little Comp Sci knowledge is needed.
 If you're not familiar with bash, feel free to shoot me a message and I will help you set this up! Fear not LOL
 
-After downloading this, navigate to the Wellness folder, wherever you downloaded it. This is so we can install the necessary dependencies.
+After downloading this, navigate to the Wellness folder with bash ('cd' for dayz), wherever you downloaded it. This is so we can install the necessary dependencies.
 
 Enter the following in terminal to download the dependencies (selenium, webdriver-manager, crontab):
     
