@@ -1,4 +1,5 @@
-# GCWellnessBypasser
+# GORDON COLLEGE WELLNESS CHECK AUTOMATOR
+
 We love being asked if we have cover every single day at 8 AM. It's time to stop LOL
 
 A FEW THINGS TO MENTION:
