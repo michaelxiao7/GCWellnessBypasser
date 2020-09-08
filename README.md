@@ -1,6 +1,6 @@
 # GORDON COLLEGE WELLNESS CHECK AUTOMATOR
 
-We love being asked if we have cover every single day at 8 AM. It's time to stop LOL
+We love being asked if we have COVID every single day at 8 AM. It's time to stop LOL
 
 A FEW THINGS TO MENTION:
 1) I designed this for Mac, and will be looking into implementing it in Windows in the near future. However, if you have coding experience, its actually super easy to convert this from Mac to Windows, so feel free to give that a shot
