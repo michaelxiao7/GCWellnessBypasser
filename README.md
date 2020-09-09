@@ -96,8 +96,10 @@ To actually run the script, navigate to the Wellness folder in terminal (cd Desk
 
     ./bypass.py
 
-If nothing happens and the terminal just enters a limbo, the system works! Great job on setting this all up and following along!
-Leave it running in the background, and don't close the terminal window. The terminal window needs to be open for the script to be run. The computer must also be on for the script to run since it's running locally on your computer, not on a server (that's why scheduling your computer to wake up is helpful).
+To run the test script and see the magic, you can enter **./bypass_test.py** in the terminal instead.
+
+When running the actual script (bypass.py), if nothing happens and the terminal just enters a limbo, the system works! It's waiting to run at the scheduled time. Great job on setting this all up and following along!
+Leave the script running in the background, and don't close the terminal window. The terminal window needs to be open for the script to be run. The computer must also be on for the script to run since it's running locally on your computer, not on a server (that's why scheduling your computer to wake up is helpful). To close the script (If you ever feel like you need to), just close terminal.
 
 **NOTE:** In order for your computer to wake up, your computer MUST BE PLUGGED IN, the computer CANNOT BE CLOSED, and it must be put to SLEEP, NOT SHUT DOWN.
 (At night, I have my computer on my desk, plugged in, with the laptop open (laptop screen and keyboard visible), and I put my computer to sleep by clicking the apple icon on the top left of and clicking "sleep")
