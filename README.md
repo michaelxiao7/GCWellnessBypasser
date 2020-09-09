@@ -2,7 +2,7 @@
 
 We love being asked if we have COVID every single day at 8 AM. It's time to stop LOL
 
-A FEW THINGS TO MENTION:
+**A FEW THINGS TO MENTION:**
 1) I designed this for Mac, and will be looking into implementing it in Windows in the near future. However, if you have coding/Windows experience, its actually super easy to convert this from Mac to Windows, so feel free to give that a shot
 
 2) Your computer will flash for a frame when the script runs. Don't scream LOL
